@@ -6,6 +6,43 @@ Objective: Customer #1
 
 ---
 
+## UPDATE — "Automation manager for Make.com" job: CONFIRMED SKIP
+
+The $150 job evaluated earlier this session (Upwork ID
+2094014016332505525, "Automation manager for Make.com") has been
+re-checked by Steven directly against the live authenticated page and
+is now a **hard SKIP**, superseding the earlier BID recommendation below.
+
+**Reasons:**
+- Description is incomplete — ends mid-list at "Job 1) — Ranking Order,"
+  Job 2 is never described.
+- Payment method unverified.
+- 15–20 proposals, 2 already interviewing, 2 invites sent — competitive
+  position is weak this late.
+- Greeting in the post begins "Hi Julia" — the client's own listing text
+  wasn't fully cleaned up for a new audience, a mild extra signal of an
+  unpolished, hard-to-scope post.
+- Client is first-time, last active a week ago — slow-moving buyer on top
+  of the above.
+
+**Standing rule this correction adds, effective immediately:** this
+session cannot fetch live authenticated Upwork pages — confirmed
+repeatedly across multiple attempts. Every future "verified live
+opportunity" claim from this session must say plainly whether it was
+independently fetched (rare/never so far) or reported by Steven's own
+check (the only way it's actually worked). Never blur the two again. A
+listing found only via search-index snippet is a **lead to verify**, not
+an opportunity to bid on or recommend.
+
+Full pressure-test of the broader "automation services primary" question
+triggered by this correction: `AI-MONEY-PIVOT-2026/LIVE-DEMAND-SHOWDOWN/`
+— result: **WEAKENED, not reversed**. Automation repair still beats
+subcontracting (no discoverable entry point found) and nontechnical AI
+services (weaker AI leverage, roughly double the transactions needed for
+the same revenue) on the merits — this one job just wasn't it.
+
+---
+
 ## DECISION
 
 **NO SAFE CUSTOMER #1 OPPORTUNITY RIGHT NOW.**
