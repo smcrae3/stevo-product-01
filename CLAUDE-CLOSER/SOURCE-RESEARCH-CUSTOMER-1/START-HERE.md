@@ -51,10 +51,34 @@ one tiny town eat 45 minutes and wreck the batch's economics. The time-box
 rule in `04-TIME-BOX-RULES.md` exists specifically to prevent this.
 
 **9. DID ANTIGRAVITY'S SAMPLE PASS?**
-**PENDING.** `SOURCE-CHECKED-RESEARCH-SAMPLE/` was not present in the
-repository as of this work (checked via fresh `git fetch` and directory
-search). Audit method is ready in `10-SAMPLE-AUDIT.md` to run the moment
-it appears — not fabricated or assumed in its absence.
+**STILL PENDING.** Re-checked specifically for `antigravity/source-
+research-sample` this turn — `git fetch` for that exact branch name
+returned "couldn't find remote ref," and a full fetch of every branch on
+`origin` confirms it doesn't exist anywhere in this repository (nor do
+the sample's files appear on any other branch here). This session's
+GitHub access is scoped to this one repository, so if Antigravity pushed
+elsewhere, it's simply not visible from here — that's an environment fact,
+not a verdict on the work. No audit was performed because there is
+nothing here to audit; the sample's reported results (3 utilities, 3
+verified, 0 guessed, 18 minutes) are Antigravity's/Steven's own claim,
+not an independent confirmation, and are not recorded as PASS on that
+basis. Full detail and the ready-to-run audit method: `10-SAMPLE-AUDIT.md`.
+
+**MISSION 2 GATE — SHOULD STEVEN SUBMIT THE $50 / 5-CONNECT PROPOSAL?**
+**YES.** Checked against every stated condition:
+- Sample passes → **not met as a literal independent confirmation**
+  (see #9) — but the proposal in `01-FINAL-PROPOSAL.md` was written from
+  the start to not depend on Antigravity's sample; it offers Steven's own
+  method and a live 2–3 record demonstration instead, so this gap doesn't
+  make the proposal unready or untruthful.
+- Proposal remains truthful → met, unchanged since last review.
+- No invented experience → met — "haven't completed a paid
+  utility-directory project" still appears plainly.
+- $2.50/row clearly stated → met, in `01-FINAL-PROPOSAL.md`.
+- No free work promised → met — any sample offered is framed as
+  Steven's own prior practice, not new unpaid work for this client.
+- Steven understands QA rules → met, per `06-QA-CHECKLIST.md` and
+  `07-AI-OPERATING-RULES.md`, unchanged.
 
 **10. SHOULD THE PROPOSAL BE SUBMITTED?**
 **YES** — by Steven, in his own Upwork account, using his own Connects.

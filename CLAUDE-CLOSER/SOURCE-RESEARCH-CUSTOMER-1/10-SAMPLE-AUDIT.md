@@ -1,13 +1,31 @@
 # 10 — Antigravity Sample Audit
 
-## SAMPLE AUDIT PENDING
+## SAMPLE AUDIT PENDING (re-checked, branch not found)
 
-Checked the repository (`git fetch` + directory search) at the time of
-this work: `SOURCE-CHECKED-RESEARCH-SAMPLE/` and its expected files
-(`01-WATER-UTILITY-RESEARCH-SAMPLE.xlsx`, `02-...csv`,
-`03-METHOD-AND-QA.md`) are not present yet. Per instruction, not waiting
-indefinitely — everything else in this mission is complete, and this file
-records the audit method ready to run the moment the sample lands.
+Second attempt, this time for the specific named branch
+`antigravity/source-research-sample`: `git fetch origin
+antigravity/source-research-sample` returned `fatal: couldn't find remote
+ref antigravity/source-research-sample`. A full `git fetch` of every
+branch on `origin` followed by `git branch -r` confirms only five
+branches exist in this repository (`main` and four `claude/*` session
+branches) — no `antigravity/*` branch of any name. Each of the other four
+branches' file trees was also checked directly for
+`SOURCE-CHECKED-RESEARCH-SAMPLE` or `WATER-UTILITY` by name — nothing
+found there either.
+
+This session's GitHub access is scoped to `smcrae3/stevo-product-01`
+only; if Antigravity pushed to a different repository, a fork, or hasn't
+pushed at all yet, none of that would be visible from here. That's stated
+as a fact about this environment, not a judgment on Antigravity's work.
+
+**No audit was performed, because there is nothing here to audit.** The
+description of the sample's results in this turn's own mission text (3
+utilities, 3 verified, 0 guessed, 18 minutes) is Antigravity's/Steven's
+reported claim, not something this session independently confirmed — and
+per the standing rule already in this file, an unconfirmed claim is never
+recorded as PASS. Per instruction, not waiting indefinitely — everything
+else in this mission is complete, and this file records the audit method
+ready to run the moment the sample actually lands in a reachable location.
 
 ## Audit method (to run immediately once the files exist — read-only, no edits)
 
