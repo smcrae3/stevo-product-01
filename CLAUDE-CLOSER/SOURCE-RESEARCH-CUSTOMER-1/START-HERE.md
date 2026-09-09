@@ -51,16 +51,17 @@ one tiny town eat 45 minutes and wreck the batch's economics. The time-box
 rule in `04-TIME-BOX-RULES.md` exists specifically to prevent this.
 
 **9. DID ANTIGRAVITY'S SAMPLE PASS?**
-**STILL PENDING.** Re-checked specifically for `antigravity/source-
-research-sample` this turn — `git fetch` for that exact branch name
-returned "couldn't find remote ref," and a full fetch of every branch on
-`origin` confirms it doesn't exist anywhere in this repository (nor do
-the sample's files appear on any other branch here). This session's
-GitHub access is scoped to this one repository, so if Antigravity pushed
+**STILL PENDING — checked a third time this turn**, specifically because
+this turn's mission said Antigravity was fixing the missing Git handoff.
+`git fetch origin antigravity/source-research-sample` again returned
+"couldn't find remote ref," and a full fetch of every branch on `origin`
+confirms it still doesn't exist anywhere in this repository (nor do the
+sample's files appear on any other branch here). This session's GitHub
+access is scoped to this one repository, so if Antigravity pushed
 elsewhere, it's simply not visible from here — that's an environment fact,
 not a verdict on the work. No audit was performed because there is
 nothing here to audit; the sample's reported results (3 utilities, 3
-verified, 0 guessed, 18 minutes) are Antigravity's/Steven's own claim,
+verified, 0 guessed, 18 minutes) remain Antigravity's/Steven's own claim,
 not an independent confirmation, and are not recorded as PASS on that
 basis. Full detail and the ready-to-run audit method: `10-SAMPLE-AUDIT.md`.
 

@@ -1,31 +1,31 @@
 # 10 — Antigravity Sample Audit
 
-## SAMPLE AUDIT PENDING (re-checked, branch not found)
+## SAMPLE AUDIT PENDING (re-checked a third time, branch still not found)
 
-Second attempt, this time for the specific named branch
-`antigravity/source-research-sample`: `git fetch origin
-antigravity/source-research-sample` returned `fatal: couldn't find remote
-ref antigravity/source-research-sample`. A full `git fetch` of every
-branch on `origin` followed by `git branch -r` confirms only five
-branches exist in this repository (`main` and four `claude/*` session
-branches) — no `antigravity/*` branch of any name. Each of the other four
-branches' file trees was also checked directly for
-`SOURCE-CHECKED-RESEARCH-SAMPLE` or `WATER-UTILITY` by name — nothing
-found there either.
+Third attempt, run specifically because this turn's mission said
+Antigravity was fixing the missing Git handoff: `git fetch origin
+antigravity/source-research-sample` again returned `fatal: couldn't find
+remote ref antigravity/source-research-sample`. A full `git fetch` of
+every branch on `origin` followed by `git branch -r` still shows only six
+branches in this repository (`main` and five `claude/*` session branches)
+— no `antigravity/*` branch of any name has appeared yet. Each branch's
+file tree was also checked directly for `SOURCE-CHECKED-RESEARCH-SAMPLE`
+or `WATER-UTILITY` by name — nothing found on any of them.
 
 This session's GitHub access is scoped to `smcrae3/stevo-product-01`
 only; if Antigravity pushed to a different repository, a fork, or hasn't
 pushed at all yet, none of that would be visible from here. That's stated
 as a fact about this environment, not a judgment on Antigravity's work.
 
-**No audit was performed, because there is nothing here to audit.** The
-description of the sample's results in this turn's own mission text (3
-utilities, 3 verified, 0 guessed, 18 minutes) is Antigravity's/Steven's
-reported claim, not something this session independently confirmed — and
-per the standing rule already in this file, an unconfirmed claim is never
-recorded as PASS. Per instruction, not waiting indefinitely — everything
-else in this mission is complete, and this file records the audit method
-ready to run the moment the sample actually lands in a reachable location.
+**No audit was performed, because there is nothing here to audit — for the
+third consecutive check.** Per this turn's explicit instruction ("if
+branch still does not exist: write SAMPLE AUDIT PENDING. Do not
+fabricate"), that's exactly what this file records. No claim about the
+sample's contents (3 utilities, 3 verified, 0 guessed, 18 minutes,
+mentioned in prior mission text) is treated as confirmed — that remains
+Antigravity's/Steven's own reported claim, not an independent
+verification. The audit method below stays ready to run the moment the
+branch actually appears and is reachable from this repository.
 
 ## Audit method (to run immediately once the files exist — read-only, no edits)
 
